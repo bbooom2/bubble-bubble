@@ -13,12 +13,12 @@
 
 ![상하이동](https://github.com/bbooom2/bubble-bubble/assets/118744207/b65b39a9-a2ae-4412-b36c-690715dd8712)
 
-버블 슈팅 (일반) 
+버블 슈팅 (일반) - 슈팅, 버블 bomb, 버블 사라짐 
 
 ![버블슈팅(일반)](https://github.com/bbooom2/bubble-bubble/assets/118744207/d453f4a4-0838-4663-a936-ce811c019f8e)
 
 
-적군 움직임, 버블 슈팅, 제거 
+적군 움직임, 버블 슈팅, 적군 제거 
 
 ![적군 움직임 및 제거](https://github.com/bbooom2/bubble-bubble/assets/118744207/3748c859-ee61-4a8e-a9bc-009f5b47fa05)
 
